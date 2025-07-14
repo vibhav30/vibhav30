@@ -83,11 +83,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vibhav30&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibhav30&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhav30&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhav30&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vibhav30&show_icons=true&theme=tokyonight&count_private=true" width="350"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhav30&theme=tokyonight" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhav30&layout=compact&theme=tokyonight" width="280"/>
+</p>
+
+
 
 ---
 
