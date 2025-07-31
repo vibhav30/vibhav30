@@ -8,14 +8,17 @@
 
 # 💫 About Me
 
-- 💻 I’m a **Full-Stack Developer** skilled in building modern apps using **MongoDB**, **Express.js**, **React.js**, and **Node.js**  
-- 🛠️ Currently learning **TypeScript** to write scalable, bug-free frontends & APIs  
+- 💻 I’m a **Full-Stack Developer** skilled in building modern web apps using **MongoDB**, **Express.js**, **React.js**, and **Node.js**
+- 🛠️ Currently learning **TypeScript** to build scalable, type-safe frontends & APIs
 - 📚 Passionate about **Data Structures and Algorithms** — solving problems daily  
-- 🏆 **Meta Hacker Cup 2024 - All India Rank 204**  
-- 👨‍💻 Active on **Codeforces**, **LeetCode**, and **Codechef**  
-- 🌐 Exploring **Next.js**, **Redux Toolkit**, **Tailwind CSS**  
-- 🤝 Open-source enthusiast & team player who loves collaboration  
-- ✨ Fan of writing **clean, optimized & maintainable code**
+- 🏆 **Meta Hacker Cup 2024** — *All India Rank 204*
+- 👨‍💻 Competitive Programmer:  
+  - 🟣 **Expert** on **Codeforces**  
+  - ⭐⭐⭐⭐ **4-Star** on **CodeChef**  
+  - 🔍 Also active on **LeetCode**
+- 🌐 Exploring **Next.js**, **Redux Toolkit**, and **Tailwind CSS**
+- 🤝 Open-source enthusiast & collaborative team player
+- ✨ Fan of writing **clean, optimized, and maintainable code**
 
 ---
 
